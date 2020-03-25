@@ -1,0 +1,9 @@
+Untuk dapat masuk sebagai admin dan petugas perpus diperlukan akun dalam proses login.
+
+Akun admin perpustakaan
+nama pengguna : admin
+kata sandi : admin
+
+Akun petugas perpustakaan
+nama pengguna : 1630511
+kata sandi : petugas
